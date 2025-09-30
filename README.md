@@ -5,7 +5,7 @@ Tutorial on Doubly Robust Estimator; theory and practice.
 
 Derives the Doubly Robust Estimator for the Average Treatment Effect by combining Outcome Regression and Inverse Probability Weighting. It proves the zero-mean augmentation, establishes double robustness (unbiased if either the propensity score is correct or both outcome models are correct), and presents the sample estimator, standard error formulas, and practical guidance on cross-fitting and overlap.
 
-See Seaman and Vansteelandt (2018).
+See also Seaman and Vansteelandt (2018).
 
 ### Practice: [DR_estimator.ipynb](DR_estimator.ipynb)
 
