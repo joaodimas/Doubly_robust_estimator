@@ -1,0 +1,9 @@
+,Absolute Bias,Std. Error
+DR (Both Correct),0.0,0.01
+DR (Only IPW Correct),0.0,0.03
+DR (Only OR Correct),0.0,0.01
+DR (Both Incorrect),0.02,0.03
+Correct OR,0.0,0.01
+Incorrect OR,0.09,0.02
+Correct IPW,0.0,0.11
+Incorrect IPW,0.25,0.03
